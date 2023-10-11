@@ -1,4 +1,4 @@
-# streaming
+# Netflix Streaming
 
 In the following analysis, we will explore the different attributes contained in the file, the identification and processing of missing values, the identification of: the most popular content type, the different ratings, the amount of content that is tagged with each rating, the amount of content per rating and per content type, the number of movies and shows that have been released in each year, the different genres and the countries where the production has been made. Finally, a new attribute containing a brief description of the rating is generated.
 
